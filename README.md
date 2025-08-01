@@ -14,7 +14,7 @@ This is a simple yet powerful **password generator written in Python**. It lets 
 
 2. Run the Python file:
    ```bash
-   python password_generator.py
+   python main.py
    ```
 
 > Requires Python 3. No external libraries needed.
